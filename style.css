@@ -1,0 +1,8 @@
+@font-face {
+    font-family: logo-fonts;
+    src: url(fonts/Norse-Bold\(1\).otf);
+  }
+  
+  p {
+    font-family: logo-fonts, sans-serif;
+  }
