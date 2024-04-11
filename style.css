@@ -93,11 +93,16 @@ form > div > div {
 label {
   margin-bottom: 5px;
   font-weight: bold;
-  font-size: 0.95rem;
 }
 
 input {
   height: 25px;
   width: 270px;
   border: 2px solid rgb(211, 201, 201);
+}
+
+#display > div > p {
+  font-weight: bold;
+  font-size: 1.4rem;
+  margin-bottom: 30px;
 }
